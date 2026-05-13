@@ -68,11 +68,12 @@ Calories_burnt/
 │   ├── main.py
 │
 ├── model.pkl
+├── notebooks/
+│   ├── calories_burnt_prediction.ipynb
 ├── requirements.txt
 ├── Dockerfile
 ├── LICENSE
 ├── .gitignore
-├── calories_burnt_prediction.ipynb
 └── README.md
 ```
 
