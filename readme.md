@@ -36,6 +36,19 @@ JSON Response
 
 ---
 
+## ✨ Features
+
+- ⚡ Real-time calorie burn prediction via REST API  
+- 🧠 Trained ML model (CatBoost / XGBoost / Random Forest)  
+- 📦 Fully containerized using Docker  
+- 🚀 Production-ready FastAPI backend  
+- 📊 Handles structured tabular input data  
+- 📡 JSON-based request/response system  
+- 📄 Auto-generated Swagger UI for testing  
+- ☁️ Cloud deployment ready (Render / AWS / Railway)  
+
+---
+
 ## 📊 Input Features
 
 - Gender  
@@ -93,22 +106,22 @@ Calories_burnt/
 ## 🚀 Run Locally
 
 ### 1. Clone Repository
-
+```bash
 git clone https://github.com/rafsun-jany-rafy/calorie-predictor-api.git  
 cd calories-predictor-api  
-
+```
 ---
 
 ### 2. Install Dependencies
-
+```bash
 pip install -r requirements.txt  
-
+```
 ---
 
 ### 3. Run API
-
+```bash
 uvicorn app.main:app --reload  
-
+```
 ---
 
 ### 4. Open Swagger UI
@@ -120,13 +133,13 @@ http://127.0.0.1:8000/docs
 ## 🐳 Run with Docker
 
 ### Build Image
-
+```bash
 docker build -t calorie-api .
-
+```
 ### Run Container
-
+```bash
 docker run -p 8000:8000 calorie-api  
-
+```
 ---
 
 ## 📡 API Endpoints
