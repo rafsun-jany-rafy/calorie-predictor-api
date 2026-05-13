@@ -6,4 +6,3 @@ __pycache__/
 .env
 catboost_info/
 *.csv
-*.ipynb
