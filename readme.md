@@ -61,19 +61,20 @@ JSON Response
 ---
 
 ## 📁 Project Structure
-
-Calories_burnt/  
-│  
-├── app/  
-│   ├── main.py  
-│  
-├── model.pkl 
-├── requirements.txt  
+```text
+Calories_burnt/
+│
+├── app/
+│   ├── main.py
+│
+├── model.pkl
+├── requirements.txt
 ├── Dockerfile
 ├── LICENSE
-├── .gitignore 
-├──calories_burnt_prediction.ipynb 
-└── README.md  
+├── .gitignore
+├── calories_burnt_prediction.ipynb
+└── README.md
+```
 
 ---
 
