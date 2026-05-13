@@ -71,7 +71,8 @@ Calories_burnt/
 ├── requirements.txt  
 ├── Dockerfile
 ├── LICENSE
-├── .gitignore  
+├── .gitignore 
+├──calories_burnt_prediction.ipynb 
 └── README.md  
 
 ---
