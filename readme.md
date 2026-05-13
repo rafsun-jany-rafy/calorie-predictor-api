@@ -175,11 +175,10 @@ Response:
 This project is deployed in Render[https://calorie-predictor-api.onrender.com/docs]
 
 This project can be deployed later on:
-
-- Render  
+  
 - Railway  
 - AWS EC2  
-- Docker containers  
+ 
 
 ---
 
