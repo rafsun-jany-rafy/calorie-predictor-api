@@ -172,7 +172,7 @@ Response:
 
 ## 🌐 Deployment
 
-This project is deployed in Render[https://calorie-predictor-api.onrender.com/docs#/]
+This project is deployed in Render[https://calorie-predictor-api.onrender.com/docs]
 
 This project can be deployed later on:
 
